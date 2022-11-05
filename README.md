@@ -16,7 +16,7 @@
   
   <div> 
     <a href="mailto:emilly.mee7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/emilly-cavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/emillycavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
  
 ![snake animation](https://github.com/httpsemilly/httpsemilly/blob/output/github-contribution-grid-snake.svg)
