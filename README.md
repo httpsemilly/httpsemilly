@@ -1,5 +1,11 @@
 ## Oi, eu sou a Emilly!
 
+- 🎓 Estudante de Ciência da Computação;
+- 📚 Apaixonada por história, livros e cinema!
+- 💻 Atualmente, estou estudando JavaScript e Java.
+___
+
+### GitHub stats
 <div align="center">
   <a href="https://github.com/httpsemilly">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=httpsemilly&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
