@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Ciência da Computação;
 - 📚 Apaixonada por história, livros e cinema!
-- 💻 Atualmente, estou estudando JavaScript e Java.
+- 💻 Atualmente, estou estudando Java.
 ___
 
 ### GitHub stats
