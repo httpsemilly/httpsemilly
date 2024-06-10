@@ -15,7 +15,7 @@
 <div align="center"> 
     <a href="mailto:emillymenezescs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/emillycavalcante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://x.com/emillycodes" target="_blank"><img src="https://img.shields.io/twitter/follow/emillycodes?style=for-the-badge&logo=x"></a>
+  <a href="https://x.com/emillycodess" target="_blank"><img src="https://img.shields.io/twitter/follow/emillycodes?style=for-the-badge&logo=x"></a>
 </div>
   
 <br>
