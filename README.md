@@ -1,29 +1,38 @@
 <h1 align="center">Hi, I'm Emilly! 👋</h1>
 
-<img align="right" width="300px" src="https://i.pinimg.com/736x/6f/0d/1e/6f0d1e705142b3699f89faf33f6cbf2c.jpg">
-<p>💻 <strong>Backend Developer</strong> | 🎓 Computer Science student at Unijorge | 🌍 Salvador/Brazil</p>
+<img align="right" width="150px" src="https://stickershop.line-scdn.net/stickershop/v1/product/27562/LINEStorePC/main.png?v=1">
+<p>💻 <strong>Backend Developer & Data Scientist</strong></p>
+<p>🎓 Computer Science student | 🌍 Salvador/Brazil</p>
     
 <ul>
-  <li>📚 <strong>Learning:</strong> Java, SpringBoot and SQL</li>
-  <li>💬 <strong>Languages:</strong> Portuguese (Native), English (B1) and Chinese (currently learning)</li>
+  <li>📚 <strong>Learning:</strong> Python, data analysis and SQL</li>
+  <li>💬 <strong>Languages:</strong> Portuguese (Native), English (B2), German (A1) and Chinese (HSK1)</li>
   <li>⭐ <strong>Interests:</strong> Technology, cybersecurity, cinema, literature, history and languages.</li>
 </ul>
 
-<h3>🔨 Technologies & Tools</h3>
-<div class="tech-icons">
-  <img src="https://skillicons.dev/icons?i=html,css,java,spring,git&theme=light" alt="Technologies">
+</br>
+</br>
+
+<h3 align="center">🔨 Technologies & Tools</h3>
+</br>
+<div class="tech-icons" align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,java,spring,git,python,mysql&theme=light" alt="Technologies">
 </div>
 
 </br>
+</br>
 
-<h3>📊 GitHub Stats</h3>
-  <div class="stats-container">
-     <img height="180" src="https://github-readme-stats.vercel.app/api?username=httpsemilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
-     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsemilly&layout=compact&langs_count=7&theme=dracula" alt="Top Languages">
-   </div>
+<h3 align="center">📈 Github Stats</h3>
+<div align="center" style="display:flex;flex-direction:row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsemilly&theme=transparent" width="60%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=httpsemilly&theme=transparent" width="35%">
+</div>
 
-<h3>📱 Let's Connect!</h3>
-  <div class="contact-badges">
+</br>
+</br>
+
+<h3 align="center">📱 Let's Connect!</h3>
+  <div align="center" class="contact-badges">
     <a href="mailto:emillymenezescs@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
